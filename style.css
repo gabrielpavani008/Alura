@@ -1,13 +1,13 @@
 body{
     font-family: "Oswald", sans-serif;
-    background:purple
-    color red
+    background:purple;
+    color: red;
     margin:0px;
     margin-bottom: 100;
 }
     .chamada{
         background: white;
-        display;flex;
+        display:flex;
         justify-content: center;
         padding-top: 80px;
         padding-bottom: 80px;
